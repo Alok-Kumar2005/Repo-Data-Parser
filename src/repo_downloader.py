@@ -50,7 +50,7 @@ class RepoDownloader:
 
 
 repo = RepoDownloader()
-result = repo.download_repo("https://github.com/Alok-Kumar2005/Repo-Data-Parser")
+result = repo.download_repo("https://github.com/Alok-Kumar2005/Project-Kisan")
 print(result)
 
-repo.cleanup(result)
+# repo.cleanup(result)
